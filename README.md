@@ -8,7 +8,9 @@ The dataset reveals that a small handful of microbial species (also called opera
 ## Visaulization
 
 The dashboard includes a interactive dropdown to select id to show it's respective charts and demographic information. 
-https://github.com/sesu0722/-Belly-Button-Biodiversity-dashboard/blob/main/Images/dashboard_1.png
+![dashboard_1](https://github.com/sesu0722/-Belly-Button-Biodiversity-dashboard/blob/main/Images/dashboard_1.png)
+
+
 
 
 1. Use the D3 library to read in `samples.json` from the URL `https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json`.
