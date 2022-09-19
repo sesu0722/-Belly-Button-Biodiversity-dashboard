@@ -14,6 +14,7 @@ The dashboard includes a interactive dropdown to select id to show it's respecti
 
 
 
+### Charts and Demographic information box
 
 1. Use the D3 library to read the data file `samples.json`
 
