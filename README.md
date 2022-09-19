@@ -9,7 +9,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 The dashboard includes a interactive dropdown to select id to show it's respective charts and demographic information. 
 ![dashboard_1](https://github.com/sesu0722/-Belly-Button-Biodiversity-dashboard/blob/main/Images/dashboard_1.png)
-![bubble_chart](https://github.com/sesu0722/-Belly-Button-Biodiversity-dashboard/blob/main/Images/bubble_chart.png)
+![bubblechart](https://github.com/sesu0722/-Belly-Button-Biodiversity-dashboard/blob/main/Images/bubblechart.png)
 
 
 
