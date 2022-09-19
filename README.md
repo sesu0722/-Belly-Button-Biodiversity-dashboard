@@ -9,14 +9,14 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 The dashboard includes a interactive dropdown to select id to show it's respective charts and demographic information. 
 ![dashboard_1](https://github.com/sesu0722/-Belly-Button-Biodiversity-dashboard/blob/main/Images/dashboard_1.png)
-![bubble_chart](https://github.com/sesu0722/-Belly-Button-Biodiversity-dashboard/blob/main/Images/bubble_chart.png)
+![bubblechart](https://github.com/sesu0722/-Belly-Button-Biodiversity-dashboard/blob/main/Images/bubblechart.png)
 
 
 
 
-1. Use the D3 library to read in `samples.json` from the URL `https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json`.
+1. Use the D3 library to read the data file `samples.json`
 
-2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
+2. A horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
   * Use `sample_values` as the values for the bar chart.
 
@@ -24,9 +24,9 @@ The dashboard includes a interactive dropdown to select id to show it's respecti
 
   * Use `otu_labels` as the hovertext for the chart.
 
-  ![bar Chart](Images/hw01.png)
+  ![barchart](https://github.com/sesu0722/-Belly-Button-Biodiversity-dashboard/blob/main/Images/barchart.png)
 
-3. Create a bubble chart that displays each sample.
+3. A bubble chart that displays each sample.
 
   * Use `otu_ids` for the x values.
 
@@ -38,7 +38,7 @@ The dashboard includes a interactive dropdown to select id to show it's respecti
 
   * Use `otu_labels` for the text values.
 
-![Bubble Chart](Images/bubble_chart.png)
+![bubblechart](https://github.com/sesu0722/-Belly-Button-Biodiversity-dashboard/blob/main/Images/bubblechart.png)
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
