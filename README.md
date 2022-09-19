@@ -46,38 +46,25 @@ The dashboard includes a interactive dropdown to select id to show it's respecti
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![hw](Images/hw03.png)
+![demoinfobox](https://github.com/sesu0722/-Belly-Button-Biodiversity-dashboard/blob/main/Images/demoinfobox.png)
 
-6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
+6. Update all the plots when a new sample is selected.
 
-![hw](Images/hw02.png)
+7.GitHub page: https://sesu0722.github.io/sesu0722.github.io-Belly-Button-Biodiversity-dashboard/
 
-7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+8. A gauge chart shows the weekly washing frequency of the individual
 
-## Advanced Challenge Assignment (Optional)
+  * Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
 
-The following task is advanced and therefore optional.
+  * Modify the example gauge code to account for values ranging from 0 through 9.
 
-* Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
-
-* You will need to modify the example gauge code to account for values ranging from 0 through 9.
-
-* Update the chart whenever a new sample is selected.
-
-![Weekly Washing Frequency Gauge](Images/gauge.png)
+  * Update the chart whenever a new sample is selected.
+  
+![gaugechart](https://github.com/sesu0722/-Belly-Button-Biodiversity-dashboard/blob/main/Images/gaugechart.png)
 
 
-## Hints
 
-* Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
 
-* Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
-
-## Rubric
-
-[Unit 14 Homework Rubric](https://docs.google.com/document/d/1wD_hOEJELD2hifTaECfx66xlpEdJeYm3mL8q2Zoq1vo/edit?usp=sharing)
-
-- - -
 
 ## References
 
