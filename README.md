@@ -1,4 +1,4 @@
-# Unit 14 Homework: Belly Button Biodiversity
+# Belly Button Biodiversity
 
 In this assignment, I build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/) using HTML, JavaScript, D3 and the Plot.ly libraries.
 
